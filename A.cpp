@@ -3,10 +3,11 @@
 int main()
 {
 	int a;
-	int b;
+	int bb;
+	int bb;
 	while(~scanf("%d%d", &a, &b)) {
 		printf("%d\n", a+b);
-		printf("%d\n", a-b);
+		printf("%d\n", a/b);
 	}
 	return 0;
 }
