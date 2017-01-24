@@ -3,7 +3,7 @@
 int main()
 {
 	int a;
-	int b;
+	int bb;
 	while(~scanf("%d%d", &a, &b)) {
 		printf("%d\n", a+b);
 	}
