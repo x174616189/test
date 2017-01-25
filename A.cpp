@@ -2,21 +2,10 @@
 
 int main()
 {
-<<<<<<< HEAD
 	int a;
-	int bb;
-	int bb;
-	while(~scanf("%d%d", &a, &b)) {
-		printf("%d\n", a+b);
-		printf("%d\n", a/b);
-=======
-	int aa;
-	int aa;
 	int b;
 	while(~scanf("%d%d", &a, &b)) {
-		printf("%d\n", a*b);
-		printf("%d\n", a-b);
->>>>>>> xue
+		printf("%d\n", a+b);
 	}
 	return 0;
 }
